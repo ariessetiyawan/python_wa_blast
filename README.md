@@ -9,5 +9,9 @@ scan qrcode hanya 1x dan disimpan dalam session.
 
 windows minimal sp1.
 
+mau diskusi disini aja 👇
+
+https://t.me/Ariessda
+
 ![image](https://user-images.githubusercontent.com/99067179/181095061-1a9eacd4-53ae-4aea-912d-ee128cc6a180.png)
 
